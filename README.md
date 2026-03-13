@@ -83,7 +83,6 @@ Notes:
 
 ```
 analysis/               Python scripts (see execution order above)
-revised/                Markdown drafts of each paper section
 data/                   Raw data (not tracked — see Data Acquisition)
   fia_qa_summary.csv    Small summary CSV (tracked)
 tables/                 Generated CSV tables (not tracked)
@@ -113,6 +112,7 @@ All numerical values cited in the paper are traceable to the CSV outputs.
 
 ## License
 
-Code is released under the [MIT License](LICENSE). The FIA and Yanai
-datasets are subject to their own terms from the USDA Forest Service.
-# Underpaid-to-Measure-Efficiency-Wages-and-Data-Quality-in-the-National-Forest-Inventory
+The analysis code in `analysis/` is released under the [MIT License](LICENSE).
+The paper (Underpaid_to_Measure_revised.pdf) is copyright the author(s); all
+rights reserved. The FIA and Yanai datasets are subject to their own terms
+from the USDA Forest Service.
