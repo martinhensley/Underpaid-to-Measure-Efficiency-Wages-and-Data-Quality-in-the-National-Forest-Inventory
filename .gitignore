@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files — large / downloadable (see README for acquisition)
+data/*.db
+data/*.zip
+data/*.parquet
+data/yanai_paired/
+
+# Generated outputs — reproduced by running analysis scripts
+figures/
+tables/
+Underpaid_to_Measure_revised.docx
+Underpaid_to_Measure_revised.pdf
+
+# OS
+.DS_Store

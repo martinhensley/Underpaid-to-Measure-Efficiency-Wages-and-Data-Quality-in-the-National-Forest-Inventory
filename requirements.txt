@@ -1,0 +1,9 @@
+# Python >= 3.9 required
+numpy
+pandas
+pyarrow
+matplotlib
+statsmodels
+scipy
+python-docx
+reportlab
